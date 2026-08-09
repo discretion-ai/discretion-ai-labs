@@ -2,7 +2,7 @@
 
 
 
-\## Objective
+## Objective
 
 
 
@@ -10,25 +10,25 @@ Learn the fundamentals of Git version control and use Git to manage changes to t
 
 
 
-\## Skills Practiced
+## Skills Practiced
 
 
 
-\- Clone a remote repository
+- Clone a remote repository
 
-\- Check repository status
+- Check repository status
 
-\- Create files locally
+- Create files locally
 
-\- Stage changes
+- Stage changes
 
-\- Commit changes
+- Commit changes
 
-\- Push changes to GitHub
+- Push changes to GitHub
 
 
 
-\## Commands Used
+## Commands Used
 
 
 
@@ -46,7 +46,7 @@ git pull
 
 
 
-\## Outcome
+## Outcome
 
 
 
