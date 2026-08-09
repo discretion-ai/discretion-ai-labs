@@ -1,4 +1,4 @@
-\# Lab 02 - Git Fundamentals
+# Lab 02 - Git Fundamentals
 
 
 
