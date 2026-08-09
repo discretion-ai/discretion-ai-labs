@@ -35,3 +35,7 @@ Successfully installed Git and verified that it is working correctly.
 ## Next Lab
 
 VS Code Fundamentals
+
+## Git Pull Test
+
+This line was added directly through GitHub to demonstrate git pull.
