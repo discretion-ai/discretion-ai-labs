@@ -235,4 +235,4 @@ and diagnostic verification completed successfully.
 - [x] Review and resolve relevant warnings.
 - [ ] Commit and push the completed lesson to GitHub.
 
-**Next lesson:** Lab 13.2 — Git and GitHub Setup.
+**Next lesson:** Lab 13.2 — Docker Desktop Installation and Verification.
