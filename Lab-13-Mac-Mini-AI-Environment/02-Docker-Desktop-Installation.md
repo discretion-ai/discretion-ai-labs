@@ -231,6 +231,6 @@ Possible causes:
 - [x] Run the `hello-world` test container.
 - [x] Inspect containers and images.
 - [x] Document testing results.
-- [ ] Commit and push the completed lesson to GitHub.
+- [x] Commit and push the completed lesson to GitHub.
 
 **Next lesson:** Lab 13.3 — Ollama Installation and Verification.
